@@ -22,7 +22,7 @@
 
 <img width="1445" height="254" alt="image" src="https://github.com/user-attachments/assets/c95a57e7-01dc-4d62-a59d-0cfeecee71c8" />
 
-The twist and Octcome of this task was to learn how to persist data.
+The twist and Outcome of this task was to learn how to persist data.
 Even after we exited the program, the Notes we made got saved in the txt file.
 These Notes will be there unless we use the method Delete All Notes to delete all the Notes from the txt file.
 
