@@ -1,4 +1,4 @@
-# 🐦‍⬛ Notes App – WORKING
+# 🦕 Notes App – WORKING
 
 ## Notes App Code in Visual Studio
 
