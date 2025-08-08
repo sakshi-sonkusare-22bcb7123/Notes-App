@@ -1,11 +1,11 @@
 # 🏁 Java Notes App 
 
-## 🪐Objective
+## 🌻Objective
 Build a **text-based Notes Manager** using Java's File I/O capabilities to create, read, and delete notes. This simple console application demonstrates how to **persist user data using FileWriter and FileReader**.
 
 ---
 
-## 🥶 Tools & Technologies Used
+## 🛼 Tools & Technologies Used
 
 - **Language:** Java  
 - **IDE/Editor:** VS Code  
